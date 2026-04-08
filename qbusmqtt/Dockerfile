@@ -8,7 +8,7 @@ RUN apt-get clean && \
     apt-get update && \
     apt-get upgrade -y && \
     apt-get install libc6 libdbus-1-3 libstdc++6 -y && \
-    apt-get install tftp git unzip arp-scan net-tools telnet -y
+    apt-get install tftp-hpa git unzip arp-scan net-tools telnet -y
 
 # Copy run.sh
 COPY run.sh /
