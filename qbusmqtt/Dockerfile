@@ -22,7 +22,7 @@ RUN case "${TARGETARCH:-amd64}" in \
         esac && \
     git clone https://github.com/thomasddn/qbusmqtt /qbusmqtt && \
     cd /qbusmqtt && \
-    git switch feature/v0.5.0 && \
+    git switch feature/v0.6.0 && \
     cd / && \
     mkdir -p /opt/qbusmqttgw && \
     mkdir -p /var/log/qbusmqttgw && \

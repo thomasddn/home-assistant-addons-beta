@@ -1,1 +1,1 @@
-See https://github.com/thomasddn/qbusmqtt for more information.
+See https://github.com/thomasddn/home-assistant-addons/tree/main/qbusmqtt for more information.

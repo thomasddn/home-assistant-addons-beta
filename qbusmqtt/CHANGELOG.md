@@ -1,6 +1,22 @@
 # Changelog
 
+## 0.6.0-b1 - 2026-04-19
+
+### Changed
+
+- New Qbus binaries
+
+
+## 0.5.0-b2 - 2026-04-10
+
+### Changed
+
+- Configure access to config files
+
+
 ## 0.5.0-b1 - 2026-04-07
+
+### Changed
 
 - New Qbus binaries
 
