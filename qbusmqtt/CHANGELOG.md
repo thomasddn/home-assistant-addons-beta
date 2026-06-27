@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.7.0-b1 - 2026-06-27
+
+### Added
+
+- Adds new properties to link HVAC, CO2, and HUMIDITY entities
+
+### Fixed
+
+- Bringing back some Luqas sensors that were missing with the previous release
+
+
 ## 0.6.0-b1 - 2026-04-19
 
 ### Changed
